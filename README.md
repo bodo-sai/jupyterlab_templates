@@ -1,6 +1,6 @@
 <img src="https://github.com/jpmorganchase/jupyterlab_templates/raw/main/docs/logo.png" width=400></img>
 
-Support for jupyter notebook templates in jupyterlab
+Develop for jupyter notebook templates in jupyterlab
 
 [![Build Status](https://github.com/jpmorganchase/jupyterlab_templates/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/jpmorganchase/jupyterlab_templates/actions?query=workflow%3A%22Build+Status%22)
 [![codecov](https://codecov.io/gh/jpmorganchase/jupyterlab_templates/branch/main/graph/badge.svg)](https://codecov.io/gh/jpmorganchase/jupyterlab_templates)
